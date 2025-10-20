@@ -1,0 +1,7 @@
+[requires]
+lua/5.4.7
+gtest/1.14.0
+
+[generators]
+CMakeToolchain
+CMakeDeps
